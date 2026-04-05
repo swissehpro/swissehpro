@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there! 👋 
+I'm Njdge (he/him), a high school student from india who loves coding. I specialize in Java and enjoy building Spigot plugins and useful tools for STEM research.
+
+[![Discord](https://img.shields.io/badge/Discord-NINJADOGE%20Network-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/ninja-network)  [![YouTube](https://img.shields.io/badge/YouTube-Njdge-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Njdge)  [![Website](https://img.shields.io/badge/Website-Profile-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ninjadoge.me)  
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,linux,idea,latex,mysql,mongodb)](https://skillicons.dev)
 
 <!--
 **swissehpro/swissehpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
